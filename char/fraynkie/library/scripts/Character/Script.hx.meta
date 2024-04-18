@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "965035f2-b4d5-4ee9-be8a-020fc2ad6a00",
+  "id": "charactertemplateScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "CHARACTER",
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

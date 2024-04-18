@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "62a6729c-fac3-4c43-b4dd-c4f4eb1c649a",
+  "id": "kongojungle64Script",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "STAGE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

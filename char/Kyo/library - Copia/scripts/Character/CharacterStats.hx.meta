@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": "8133b1ae-b2f1-4184-addb-52cf851666de",
+  "id": "kusanagikyoCharacterStats",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

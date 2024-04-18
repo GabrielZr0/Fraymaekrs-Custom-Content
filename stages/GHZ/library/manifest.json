@@ -1,0 +1,42 @@
+{
+  "resourceId": "stageghz",
+  "content": [{
+    "id": "stageghz",
+    "name": "Green Hill Zone (Sunset)", 
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "stageghzStageStats",
+    "scriptId": "stageghzScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::stageghz.stageghzhazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "stageghzhazards",
+    "name": "Green Hill Zone (Sunset)", 
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "stageghzStageStats",
+    "scriptId": "stageghzScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  },
+  {
+    "id": "stageghzMovingPlatform",
+    "type": "structure",
+    "objectStatsId": "stageghzMovingPlatformStats",
+    "scriptId": "stageghzMovingPlatformScript"
+  }]
+}

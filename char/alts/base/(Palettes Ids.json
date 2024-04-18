@@ -1,0 +1,91 @@
+"Characters":[]
+{
+    "Octodad"
+    {
+        "id": "public::octodad.octodad",
+        "imageAsset": "c1a3db72-9bea-4706-95c7-95e834b73a6f",   
+    },
+    "Commander Video"
+    {
+        "id": "public::commandervideo.commandervideo",
+        "imageAsset": "5b45c580-1234-4805-a60e-befb3ea3f039",   
+    },
+    "Welltaro"
+    {
+        "id": "public::welltaro.welltaro",
+        "imageAsset": "45019a1b-ec12-4049-aa1a-df327fef25b5",
+    },
+
+    "Orcane"
+    {
+        "id": "public::orcane.orcane",
+        "imageAsset": "eff75eda-f248-412f-bde4-41bde091f287",   
+    },
+    "Fishbunjin".
+    {
+        "id": "public::fishbunjin.fishbunjin",
+        "imageAsset": "a17a436c-f4fa-434d-b7a5-f81dccfa1275",   
+    },
+
+    ""
+    {
+        "id": "public::.",
+        "imageAsset": "",   
+    },
+}
+"Aassists":[]
+{
+    "Gunman Clive"
+    {
+        "id": "public::gunmancliveassist.gunmancliveassist",
+        "imageAsset": "d373865e-d11b-4bca-81cd-2b26bf303a77",
+      
+    }, 
+    "The Kid"
+    {
+        "id": "public::thekidassist.thekidassist",
+        "imageAsset": "0a7da70f-1a94-44f5-b872-7fcc530d5bce",
+      
+    },  
+    "Kragg"
+    {
+        "id": "public::kraggassist.kraggassist",
+        "imageAsset": "34e0025d-1e5b-4e83-983a-a1110b0116b9",
+      
+    },  
+    "Lea"
+    {
+      "id": "public::leaassist.leaassist",
+      "imageAsset": "0bf8f464-a119-4664-89b5-599a47cdaedc",
+    },
+    "Niko"
+    {
+        "id": "public::nikoassist.nikoassist",
+        "imageAsset": "377a937e-c219-4057-9bc4-1c24b99bea0d",
+      
+    },
+    "Pizza"
+    {
+        "id": "public::pizzaassist.pizzaassist",
+        "imageAsset": "f542972d-151e-4596-bd7e-535e19bb4e84",
+      
+    },  
+    "Rockman"
+    {
+    "id": "public::rockmanassist.rockmanassist",
+    "imageAsset": "008c96dc-fdc9-456d-bac9-b25741ed6d05",
+  
+    },
+    "The Silent"
+    {
+    "id": "public::thesilentassist.thesilentassist",
+    "imageAsset": "acd02134-71b2-4aee-ac89-34e976671a76",
+
+    },
+    ""
+    {
+        "id": "public::assist.assist",
+        "imageAsset": "",
+      
+    },  
+}

@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": "86a0eb95-ce14-471d-80bd-75975a4d9ad4",
+  "id": "manifest",
+  "language": "json",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

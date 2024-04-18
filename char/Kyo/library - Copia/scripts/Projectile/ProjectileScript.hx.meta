@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "7c100c93-7b4c-4df3-a5c8-d4799ebe6949",
+  "id": "kusanagikyoNspecProjectileScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "PROJECTILE",
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

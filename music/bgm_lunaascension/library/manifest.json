@@ -1,0 +1,12 @@
+{
+  "resourceId": "bgm_lunaascension",
+  "content": [{
+    "id": "bgm_lunaascension",
+    "title": "Luna Ascension",
+    "artist": "FlashyGoodness",
+    "description": "Level 11 theme",
+    "type": "music",
+    "audioId": "bgm_lunaascension",
+    "loopPoint": 0
+  }]
+}

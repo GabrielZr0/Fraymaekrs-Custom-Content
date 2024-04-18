@@ -1,0 +1,120 @@
+{
+  "colors": [
+    {
+      "$id": "719684a2-4b3f-4d1c-a063-a3a6de82241c",
+      "color": "0xFF0B115E",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "1224f258-0044-4366-9fb7-824b9b28264d",
+      "color": "0xFF092990",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "23ed1520-8dbd-4948-972a-14ac9e8f803e",
+      "color": "0xFF133CEB",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "9fcbc5f2-9802-4caa-893a-c28dcd6f50e1",
+      "color": "0xFF1775FF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "ac4aa189-f48c-459a-85ea-6ce0d30a2563",
+      "color": "0xFF28B2FF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "ca544da6-b026-4177-9aa8-e25284e066bc",
+      "color": "0xFF43DFFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "7bf262b2-30a3-4183-8c14-9e28864dd8cf",
+      "color": "0xFFB7E7F7",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "809ceddd-9d53-4ffb-adab-340946d7992c",
+      "color": "0xFF77EFF7",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "9e42a20b-e650-4a0d-a100-d54623afd203",
+  "id": "firepalettes",
+  "imageAsset": "73a488c8-b606-4c73-bd8c-316012e96d6c",
+  "maps": [
+    {
+      "$id": "e6deacf7-ad3d-4e1d-8155-5537646b4798",
+      "colors": [
+        {
+          "paletteColorId": "719684a2-4b3f-4d1c-a063-a3a6de82241c",
+          "targetColor": "0xFF0B115E"
+        },
+        {
+          "paletteColorId": "1224f258-0044-4366-9fb7-824b9b28264d",
+          "targetColor": "0xFF092990"
+        },
+        {
+          "paletteColorId": "23ed1520-8dbd-4948-972a-14ac9e8f803e",
+          "targetColor": "0xFF133CEB"
+        },
+        {
+          "paletteColorId": "9fcbc5f2-9802-4caa-893a-c28dcd6f50e1",
+          "targetColor": "0xFF1775FF"
+        },
+        {
+          "paletteColorId": "ac4aa189-f48c-459a-85ea-6ce0d30a2563",
+          "targetColor": "0xFF28B2FF"
+        },
+        {
+          "paletteColorId": "ca544da6-b026-4177-9aa8-e25284e066bc",
+          "targetColor": "0xFF43DFFF"
+        },
+        {
+          "paletteColorId": "7bf262b2-30a3-4183-8c14-9e28864dd8cf",
+          "targetColor": "0xFFB7E7F7"
+        },
+        {
+          "paletteColorId": "809ceddd-9d53-4ffb-adab-340946d7992c",
+          "targetColor": "0xFF77EFF7"
+        }
+      ],
+      "name": "Untitled Palette Map",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true
+        }
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

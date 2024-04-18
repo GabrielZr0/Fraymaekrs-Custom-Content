@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": null,
+  "id": null,
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "STAGE",
+      "version": "0.1.2"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

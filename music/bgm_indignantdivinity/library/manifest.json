@@ -1,0 +1,12 @@
+{
+  "resourceId": "bgm_indignantdivinity",
+  "content": [{
+    "id": "bgm_indignantdivinity",
+    "title": "Indignant Divinity",
+    "artist": "FlashyGoodness",
+    "description": "Levels 7-10 theme",
+    "type": "music",
+    "audioId": "bgm_indignantdivinity",
+    "loopPoint": 0
+  }]
+}

@@ -1,0 +1,42 @@
+{
+  "resourceId": "towerofheaven",
+  "content": [{
+    "id": "towerofheaven",
+    "name": "Tower of Heaven",
+    "description": "The fallen Tower rises once again.",
+    "type": "stage",
+    "objectStatsId": "towerofheavenStageStats",
+    "scriptId": "towerofheavenScript",
+    "music": [{ "namespace": "local", "resourceId": "bgm_lunaascension", "contentId": "bgm_lunaascension" },{"namespace": "local", "resourceId": "bgm_indignantdivinity", "contentId": "bgm_indignantdivinity" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::towerofheaven.towerofheavenhazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "towerofheavenhazards",
+    "name": "Tower of Heaven",
+    "description": "The fallen Tower rises once again.",
+    "type": "stage",
+    "objectStatsId": "towerofheavenStageStats",
+    "scriptId": "towerofheavenScript",
+    "music": [{ "namespace": "local", "resourceId": "bgm_lunaascension", "contentId": "bgm_lunaascension" },{"namespace": "local", "resourceId": "bgm_indignantdivinity", "contentId": "bgm_indignantdivinity" }]
+  },
+  {
+    "id": "towerofheavenMovingPlatform",
+    "type": "structure",
+    "objectStatsId": "towerofheavenMovingPlatformStats",
+    "scriptId": "towerofheavenMovingPlatformScript"
+  }]
+}

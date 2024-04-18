@@ -1,0 +1,42 @@
+{
+  "resourceId": "yoshistory",
+  "content": [{
+    "id": "stagetemplate",
+    "name": "Yoshi's Story",
+    "description": "Yoshi's Island.",
+    "type": "stage",
+    "objectStatsId": "stagetemplateStageStats",
+    "scriptId": "stagetemplateScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::stagetemplate.stagetemplatehazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "stagetemplatehazards",
+    "name": "Yoshi's Story",
+    "description": "Yoshi's Island.",
+    "type": "stage",
+    "objectStatsId": "stagetemplateStageStats",
+    "scriptId": "stagetemplateScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  },
+  {
+    "id": "stagetemplateMovingPlatform",
+    "type": "structure",
+    "objectStatsId": "stagetemplateMovingPlatformStats",
+    "scriptId": "stagetemplateMovingPlatformScript"
+  }]
+}

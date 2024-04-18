@@ -1,0 +1,40 @@
+{
+  "resourceId": "goldentemple",
+  "content": [{
+    "id": "goldentemple",
+    "name": "Golden Temple", 
+    "description": "based on PMEXRemix design",
+    "type": "stage",
+    "objectStatsId": "goldentempleStageStats",
+    "scriptId": "goldentempleScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::goldentemple.goldentemplehazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "goldentemplehazards",
+    "name": "Golden Temple", 
+    "description": "based on PMEXRemix design",
+    "type": "stage",
+    "objectStatsId": "goldentempleStageStats",
+    "scriptId": "goldentempleScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  },
+  {
+    "id": "goldentempleMovingPlatform",
+    "type": "structure"
+  }]
+}

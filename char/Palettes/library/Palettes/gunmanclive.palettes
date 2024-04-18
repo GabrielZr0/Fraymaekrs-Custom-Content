@@ -1,0 +1,295 @@
+{
+  "colors": [
+    {
+      "$id": "600d01fb-6a8b-49d1-b39d-8fd65c6a8fa7",
+      "color": "0xFF612412",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "443a4aad-a6f3-44f7-9184-813acc0ce83c",
+      "color": "0xFFAB631E",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "9c759705-1381-482e-8c4f-12f9524a191b",
+      "color": "0xFFDD8F43",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "42a1eccc-ab2a-411d-841a-016b012d099d",
+      "color": "0xFFDE5500",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "f2a80519-dbf5-4bb5-99b8-3f91e436791a",
+      "color": "0xFFF99126",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "140d9b10-ce38-443f-b2aa-f1ee4fa8a24b",
+      "color": "0xFFFFC978",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "019dc9aa-c79e-4d1b-a0e6-8dd1726c5290",
+      "color": "0xFFFFC81F",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "96eb0b97-e4df-48dd-ad9b-7669199608bb",
+      "color": "0xFFFFF654",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "a8a31bc4-c193-4401-b1ae-3a7405a0646c",
+      "color": "0xFFFFFFFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "3a98a59c-815e-471c-8e15-132dd5f048a0",
+      "color": "0xFFFFC820",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "80a31fee-1545-4ccb-a022-bf5617ccf401",
+  "id": "public::gunmancliveassist.gunmancliveassist",
+  "imageAsset": "d373865e-d11b-4bca-81cd-2b26bf303a77",
+  "maps": [
+    {
+      "$id": "2044323b-602a-418d-af04-d458f9686e32",
+      "colors": [
+        {
+          "paletteColorId": "600d01fb-6a8b-49d1-b39d-8fd65c6a8fa7",
+          "targetColor": "0xFF612412"
+        },
+        {
+          "paletteColorId": "443a4aad-a6f3-44f7-9184-813acc0ce83c",
+          "targetColor": "0xFFAB631E"
+        },
+        {
+          "paletteColorId": "9c759705-1381-482e-8c4f-12f9524a191b",
+          "targetColor": "0xFFDD8F43"
+        },
+        {
+          "paletteColorId": "42a1eccc-ab2a-411d-841a-016b012d099d",
+          "targetColor": "0xFFDE5500"
+        },
+        {
+          "paletteColorId": "f2a80519-dbf5-4bb5-99b8-3f91e436791a",
+          "targetColor": "0xFFF99126"
+        },
+        {
+          "paletteColorId": "140d9b10-ce38-443f-b2aa-f1ee4fa8a24b",
+          "targetColor": "0xFFFFC978"
+        },
+        {
+          "paletteColorId": "019dc9aa-c79e-4d1b-a0e6-8dd1726c5290",
+          "targetColor": "0xFFFFC81F"
+        },
+        {
+          "paletteColorId": "96eb0b97-e4df-48dd-ad9b-7669199608bb",
+          "targetColor": "0xFFFFF654"
+        },
+        {
+          "paletteColorId": "a8a31bc4-c193-4401-b1ae-3a7405a0646c",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "3a98a59c-815e-471c-8e15-132dd5f048a0",
+          "targetColor": "0xFFFFC820"
+        }
+      ],
+      "name": "Base",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true
+        }
+      }
+    },
+    {
+      "$id": "77d16e06-d7fc-4258-9157-bf46c0b0a641",
+      "colors": [
+        {
+          "paletteColorId": "600d01fb-6a8b-49d1-b39d-8fd65c6a8fa7",
+          "targetColor": "0xFF2C2041"
+        },
+        {
+          "paletteColorId": "443a4aad-a6f3-44f7-9184-813acc0ce83c",
+          "targetColor": "0xFF823080"
+        },
+        {
+          "paletteColorId": "9c759705-1381-482e-8c4f-12f9524a191b",
+          "targetColor": "0xFFEF4070"
+        },
+        {
+          "paletteColorId": "42a1eccc-ab2a-411d-841a-016b012d099d",
+          "targetColor": "0xFFBA3A2B"
+        },
+        {
+          "paletteColorId": "f2a80519-dbf5-4bb5-99b8-3f91e436791a",
+          "targetColor": "0xFFFA7F3B"
+        },
+        {
+          "paletteColorId": "140d9b10-ce38-443f-b2aa-f1ee4fa8a24b",
+          "targetColor": "0xFFFA7F3B"
+        },
+        {
+          "paletteColorId": "019dc9aa-c79e-4d1b-a0e6-8dd1726c5290",
+          "targetColor": "0xFFFAA23B"
+        },
+        {
+          "paletteColorId": "96eb0b97-e4df-48dd-ad9b-7669199608bb",
+          "targetColor": "0xFFFACF3B"
+        },
+        {
+          "paletteColorId": "a8a31bc4-c193-4401-b1ae-3a7405a0646c",
+          "targetColor": "0xFFFFEEB6"
+        },
+        {
+          "paletteColorId": "3a98a59c-815e-471c-8e15-132dd5f048a0",
+          "targetColor": "0xFFFFC820"
+        }
+      ],
+      "name": "gunman clive sunset pink",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": false
+        }
+      }
+    },
+    {
+      "$id": "ba5bc9cd-8e7e-43b7-aab1-5f750b87d0d8",
+      "colors": [
+        {
+          "paletteColorId": "600d01fb-6a8b-49d1-b39d-8fd65c6a8fa7",
+          "targetColor": "0xFF442724"
+        },
+        {
+          "paletteColorId": "443a4aad-a6f3-44f7-9184-813acc0ce83c",
+          "targetColor": "0xFFD47B47"
+        },
+        {
+          "paletteColorId": "9c759705-1381-482e-8c4f-12f9524a191b",
+          "targetColor": "0xFFE5D048"
+        },
+        {
+          "paletteColorId": "42a1eccc-ab2a-411d-841a-016b012d099d",
+          "targetColor": "0xFFDE5500"
+        },
+        {
+          "paletteColorId": "f2a80519-dbf5-4bb5-99b8-3f91e436791a",
+          "targetColor": "0xFFF99126"
+        },
+        {
+          "paletteColorId": "140d9b10-ce38-443f-b2aa-f1ee4fa8a24b",
+          "targetColor": "0xFFE8F391"
+        },
+        {
+          "paletteColorId": "019dc9aa-c79e-4d1b-a0e6-8dd1726c5290",
+          "targetColor": "0xFFFFC81F"
+        },
+        {
+          "paletteColorId": "96eb0b97-e4df-48dd-ad9b-7669199608bb",
+          "targetColor": "0xFFFFF654"
+        },
+        {
+          "paletteColorId": "a8a31bc4-c193-4401-b1ae-3a7405a0646c",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "3a98a59c-815e-471c-8e15-132dd5f048a0",
+          "targetColor": "0xFFFFC820"
+        }
+      ],
+      "name": "gunman clive midday gold",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": false
+        }
+      }
+    },
+    {
+      "$id": "8b5373d3-be4f-4504-ab55-e6428a2c9378",
+      "colors": [
+        {
+          "paletteColorId": "600d01fb-6a8b-49d1-b39d-8fd65c6a8fa7",
+          "targetColor": "0xFF281835"
+        },
+        {
+          "paletteColorId": "443a4aad-a6f3-44f7-9184-813acc0ce83c",
+          "targetColor": "0xFF39286E"
+        },
+        {
+          "paletteColorId": "9c759705-1381-482e-8c4f-12f9524a191b",
+          "targetColor": "0xFF4E51BD"
+        },
+        {
+          "paletteColorId": "42a1eccc-ab2a-411d-841a-016b012d099d",
+          "targetColor": "0xFF18226B"
+        },
+        {
+          "paletteColorId": "f2a80519-dbf5-4bb5-99b8-3f91e436791a",
+          "targetColor": "0xFF3A4D90"
+        },
+        {
+          "paletteColorId": "140d9b10-ce38-443f-b2aa-f1ee4fa8a24b",
+          "targetColor": "0xFF7E87C1"
+        },
+        {
+          "paletteColorId": "019dc9aa-c79e-4d1b-a0e6-8dd1726c5290",
+          "targetColor": "0xFF6783C5"
+        },
+        {
+          "paletteColorId": "96eb0b97-e4df-48dd-ad9b-7669199608bb",
+          "targetColor": "0xFF9FB8E2"
+        },
+        {
+          "paletteColorId": "a8a31bc4-c193-4401-b1ae-3a7405a0646c",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "3a98a59c-815e-471c-8e15-132dd5f048a0",
+          "targetColor": "0xFFFFC820"
+        }
+      ],
+      "name": "gunman clive midnight blue",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": false
+        }
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "eb728088-66e9-4f15-b962-db4fbf71a44d",
+  "id": "kusanagikyoNspecProjectileHitboxStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

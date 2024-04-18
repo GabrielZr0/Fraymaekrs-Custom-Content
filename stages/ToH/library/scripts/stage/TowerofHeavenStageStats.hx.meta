@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "c89abf3c-f5c4-4ad7-87f2-a11755778d6a",
+  "id": "towerofheavenStageStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
