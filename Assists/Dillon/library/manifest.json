@@ -1,15 +1,15 @@
 {
-  "resourceId": "assisttemplate",
+  "resourceId": "assistjiro",
   "content": [{
-    "id": "assisttemplate",
-    "name": "Assist Template",
+    "id": "assistjiro",
+    "name": "Dillon",
     "description": "An example assist character for Fraymakers.",
     "type": "assist",
-    "objectStatsId": "assisttemplateAssistObjectStats",
-    "animationStatsId": "assisttemplateAnimationStats",
-    "hitboxStatsId": "assisttemplateHitboxStats",
-    "scriptId": "assisttemplateScript",
-    "costumesId": "assisttemplateCostumes",
+    "objectStatsId": "assistjiroAssistObjectStats",
+    "animationStatsId": "assistjiroAnimationStats",
+    "hitboxStatsId": "assistjiroHitboxStats",
+    "scriptId": "assistjiroScript",
+    "costumesId": "assistjiroCostumes",
     "metadata": {
       "ui":{
         "entityId":"menu",
@@ -30,11 +30,11 @@
       }
     }
   },{
-    "id": "assisttemplateProjectile",
+    "id": "assistjiroProjectile",
     "type": "projectile",
-    "objectStatsId": "assisttemplateProjectileObjectStats",
-    "animationStatsId": "assisttemplateProjectileAnimationStats",
-    "hitboxStatsId": "assisttemplateProjectileHitboxStats",
-    "scriptId": "assisttemplateProjectileScript"
+    "objectStatsId": "assistjiroProjectileObjectStats",
+    "animationStatsId": "assistjiroProjectileAnimationStats",
+    "hitboxStatsId": "assistjiroProjectileHitboxStats",
+    "scriptId": "assistjiroProjectileScript"
   }]
 }
