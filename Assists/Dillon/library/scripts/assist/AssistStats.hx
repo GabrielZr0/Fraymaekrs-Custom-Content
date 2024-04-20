@@ -2,9 +2,9 @@
 
 // Define some states for our state machine
 STATE_IDLE = 0;
-STATE_JUMP = 1;
-STATE_FALL = 2;
-STATE_SLAM = 3;
+STATE_STARTUP = 1;
+STATE_CHARGE = 2;
+STATE_DASH = 3;
 STATE_OUTRO = 4;
 
 {
@@ -14,13 +14,13 @@ STATE_OUTRO = 4;
 		STATE_IDLE => {
 			animation: "idle"
 		},
-		STATE_JUMP => {
+		STATE_STARTUP => {
 			animation: "spindashstart"
 		},
-		STATE_FALL => {
+		STATE_CHARGE => {
 			animation: "spindashcharge"
 		},
-		STATE_SLAM => {
+		STATE_DASH => {
 			animation: "spindash"
 		},
 		STATE_OUTRO => {
