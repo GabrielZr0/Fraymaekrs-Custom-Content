@@ -1,7 +1,7 @@
 {
   "autoHurtboxPrefix": null,
   "autoKeyframeOffsetX": 0,
-  "autoKeyframeOffsetY": 0,
+  "autoKeyframeOffsetY": 4,
   "defaultCollisionBodyLayerAlpha": 0.5,
   "defaultCollisionBodyLayerColor": "0xffa500",
   "defaultCollisionBodyLayerFoot": 0,

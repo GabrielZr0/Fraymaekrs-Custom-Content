@@ -1,27 +1,27 @@
 {
   "animations": [
     {
-      "$id": "d8493164-f16f-44b7-a27b-9a847023b254",
+      "$id": "d17659c2-a0e0-43ae-8302-9b234c3dac2d",
       "layers": [
-        "965df1e2-a717-4482-ab27-95752af15161"
+        "0edfebbe-6a99-498f-b282-d71282b83a2a"
       ],
       "name": "assist_css",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "c9cb0bbd-4c64-4c50-94b1-3e06a8845b66",
+      "$id": "08185874-77d6-4394-8751-a4340c00d44e",
       "layers": [
-        "8bc83953-13b3-4805-8c32-f44edcac3e80"
+        "bfc9b6a1-bab6-4c88-a58d-5dce34f7363e"
       ],
       "name": "assist_full",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "435f5c67-9439-4d0d-8c16-aa192c1aa9be",
+      "$id": "18e49ab8-b1f8-49e3-8801-14396d8fd82c",
       "layers": [
-        "4a3e6a78-a651-42b8-8142-34a73fba7fae"
+        "b1b10c6e-2e1b-4aa0-8de7-e6ac9441daa8"
       ],
       "name": "assist_hud",
       "pluginMetadata": {
@@ -29,35 +29,35 @@
     }
   ],
   "export": true,
-  "guid": "8caea3f3-4ee7-4d1e-9731-210a79369319",
+  "guid": "f918ddd1-1612-4f9d-889b-fb6ecb1bdc3d",
   "id": "menu",
   "keyframes": [
     {
-      "$id": "0cc3510f-4e9d-4d23-becd-8137cd5bc39a",
+      "$id": "6f79a08c-ee58-49c7-981d-e2b885741463",
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": "72cb21da-06dd-4fea-a56b-6ee8a9db12b6",
+      "symbol": "242a4d3c-a5bc-4623-b077-6c424dd94bce",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
     },
     {
-      "$id": "28e7f297-74e8-4dea-9431-0369eaa563db",
+      "$id": "7898a8e6-cc23-4740-b9f2-6a6893bab902",
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": "8a5f35d4-69a1-400f-a1d6-d509ac35c5fc",
+      "symbol": "178cc4e0-2f4d-4938-951d-c37e0c0c08ef",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
     },
     {
-      "$id": "39c16905-86a5-4342-b2a3-faa3c5a4cfd6",
+      "$id": "f95fddbb-94d1-4a3c-8a18-2db131bf7bae",
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": "d8e2b1eb-109b-4d49-96d0-a1b3b9daad32",
+      "symbol": "8d930d90-bf09-4011-94af-19c0771bd9e1",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
@@ -65,10 +65,10 @@
   ],
   "layers": [
     {
-      "$id": "8bc83953-13b3-4805-8c32-f44edcac3e80",
+      "$id": "bfc9b6a1-bab6-4c88-a58d-5dce34f7363e",
       "hidden": false,
       "keyframes": [
-        "0cc3510f-4e9d-4d23-becd-8137cd5bc39a"
+        "6f79a08c-ee58-49c7-981d-e2b885741463"
       ],
       "locked": false,
       "name": "Image 0",
@@ -77,10 +77,10 @@
       "type": "IMAGE"
     },
     {
-      "$id": "4a3e6a78-a651-42b8-8142-34a73fba7fae",
+      "$id": "b1b10c6e-2e1b-4aa0-8de7-e6ac9441daa8",
       "hidden": false,
       "keyframes": [
-        "28e7f297-74e8-4dea-9431-0369eaa563db"
+        "7898a8e6-cc23-4740-b9f2-6a6893bab902"
       ],
       "locked": false,
       "name": "Image 0",
@@ -89,10 +89,10 @@
       "type": "IMAGE"
     },
     {
-      "$id": "965df1e2-a717-4482-ab27-95752af15161",
+      "$id": "0edfebbe-6a99-498f-b282-d71282b83a2a",
       "hidden": false,
       "keyframes": [
-        "39c16905-86a5-4342-b2a3-faa3c5a4cfd6"
+        "f95fddbb-94d1-4a3c-8a18-2db131bf7bae"
       ],
       "locked": false,
       "name": "Image Layer",
@@ -108,7 +108,7 @@
   "pluginMetadata": {
     "com.fraymakers.FraymakersMetadata": {
       "spritesheetGroup": "menu",
-      "version": "0.3.0"
+      "version": "0.1.1"
     }
   },
   "plugins": [
@@ -116,9 +116,9 @@
   ],
   "symbols": [
     {
-      "$id": "72cb21da-06dd-4fea-a56b-6ee8a9db12b6",
+      "$id": "242a4d3c-a5bc-4623-b077-6c424dd94bce",
       "alpha": 1,
-      "imageAsset": "80b8f489-89d1-44c7-ab25-4d07b81904e7",
+      "imageAsset": "19316f21-ac77-4b59-9269-4d8cc132729d",
       "pivotX": 0,
       "pivotY": 0,
       "pluginMetadata": {
@@ -131,9 +131,9 @@
       "y": -4
     },
     {
-      "$id": "8a5f35d4-69a1-400f-a1d6-d509ac35c5fc",
+      "$id": "178cc4e0-2f4d-4938-951d-c37e0c0c08ef",
       "alpha": 1,
-      "imageAsset": "386fc2e7-b84c-4b6b-8378-ee0919cc6afc",
+      "imageAsset": "3310d889-3aee-48ff-908d-d2a614d64294",
       "pivotX": 0,
       "pivotY": 0,
       "pluginMetadata": {
@@ -146,9 +146,9 @@
       "y": 0
     },
     {
-      "$id": "d8e2b1eb-109b-4d49-96d0-a1b3b9daad32",
+      "$id": "8d930d90-bf09-4011-94af-19c0771bd9e1",
       "alpha": 1,
-      "imageAsset": "9431c9af-1103-4490-bf13-c2bb40df1c45",
+      "imageAsset": "3272a7bb-790f-4a59-8fd8-3532019b0aec",
       "pivotX": 20.5,
       "pivotY": 10.5,
       "pluginMetadata": {

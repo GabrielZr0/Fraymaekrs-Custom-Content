@@ -2,7 +2,7 @@
   "resourceId": "assistjiro",
   "content": [{
     "id": "assistjiro",
-    "name": "Dillon",
+    "name": "Assist Template",
     "description": "An example assist character for Fraymakers.",
     "type": "assist",
     "objectStatsId": "assistjiroAssistObjectStats",
