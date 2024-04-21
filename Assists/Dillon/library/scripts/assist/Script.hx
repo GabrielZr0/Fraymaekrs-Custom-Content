@@ -10,13 +10,6 @@ STATE_OUTRO = 4;
 var SPAWN_X_DISTANCE = 0; // How far in front of player to spawn
 var SPAWN_HEIGHT = 0; // How high up from player to spawn
 
-
-function waitTimer(){
-	if (self.inState(STATE_CHARGE)) {
-	self.addTimer(30, 1);
-	}
-}
-
 // Runs on object init
 function initialize(){
 	// Face the same direction as the user
@@ -28,13 +21,14 @@ function initialize(){
 	{
 		self.toState(STATE_DASH);
 	}
-
+	
 	// Reposition relative to the user
 	Common.repositionToEntityEcb(self.getOwner(), self.flipX(SPAWN_X_DISTANCE), -SPAWN_HEIGHT);
 
 	// Add fade in effect
 	Common.startFadeIn();
 }
+
 
 function update(){
 	// Behavior for each state
@@ -50,8 +44,8 @@ function update(){
 		
 	} else if (self.inState(STATE_CHARGE)) {
 		if (self.finalFramePlayed()) {
-			self.toState(STATE_DASH); 
-		}	
+				self.toState(STATE_DASH); 
+		}
 	} else if (self.inState(STATE_DASH)) {
 		if (self.finalFramePlayed()) {
 			// Move to outro state and start fading away
@@ -67,3 +61,7 @@ function update(){
 }
 function onTeardown(){
 }
+
+function loopCharge(){
+}
+

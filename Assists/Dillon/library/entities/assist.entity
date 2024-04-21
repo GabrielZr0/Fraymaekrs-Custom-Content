@@ -21,7 +21,8 @@
     {
       "$id": "29c5e7fa-c636-4574-8e0f-98ce31c608da",
       "layers": [
-        "ee0eb5c5-a0d6-474e-ae28-2dbb39c19079"
+        "ee0eb5c5-a0d6-474e-ae28-2dbb39c19079",
+        "9d725362-65f0-470e-baff-f2f0fd9d92f3"
       ],
       "name": "spindashcharge",
       "pluginMetadata": {
@@ -841,6 +842,14 @@
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
+    },
+    {
+      "$id": "e3a3ac98-1392-4faa-873e-d85eae8bfe89",
+      "code": null,
+      "length": 1,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
     }
   ],
   "layers": [
@@ -1032,6 +1041,19 @@
       "pluginMetadata": {
       },
       "type": "IMAGE"
+    },
+    {
+      "$id": "9d725362-65f0-470e-baff-f2f0fd9d92f3",
+      "hidden": false,
+      "keyframes": [
+        "e3a3ac98-1392-4faa-873e-d85eae8bfe89"
+      ],
+      "language": "hscript",
+      "locked": false,
+      "name": "Frame Script Layer",
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
     }
   ],
   "paletteMap": {
