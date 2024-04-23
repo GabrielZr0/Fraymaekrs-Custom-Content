@@ -33,7 +33,8 @@
       "layers": [
         "fd651365-ebb2-4809-9523-53f8780b3fb6",
         "3d17b734-8e21-4968-b76c-e4ccbe95e610",
-        "f0fdfcf5-ab8b-4713-9f90-371046226ceb"
+        "f0fdfcf5-ab8b-4713-9f90-371046226ceb",
+        "9f0ded85-c408-4820-bbd7-005fe14e61be"
       ],
       "name": "spindash",
       "pluginMetadata": {
@@ -42,7 +43,8 @@
     {
       "$id": "5fba1ce4-0fd8-40bd-9f9d-e6e6c84c403d",
       "layers": [
-        "c81217d6-3cac-4650-824e-41c847d76013"
+        "c81217d6-3cac-4650-824e-41c847d76013",
+        "cddc56c3-1176-4250-98ae-2dae25dc032b"
       ],
       "name": "outro",
       "pluginMetadata": {
@@ -85,7 +87,7 @@
     },
     {
       "$id": "9829add1-5f81-47c9-882a-f48f01d61929",
-      "length": 1,
+      "length": 2,
       "pluginMetadata": {
       },
       "symbol": "e9c5f474-be4b-4329-b50b-3b9dd9d8d86a",
@@ -845,7 +847,23 @@
     },
     {
       "$id": "e3a3ac98-1392-4faa-873e-d85eae8bfe89",
-      "code": null,
+      "code": "getNearestFoe();\r\n\r\nself.addTimer(28, 1, function() {\r\n    self.toState(STATE_DASH); \r\n});\r\n",
+      "length": 1,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "8d588abf-16e4-4861-aa8c-e990b7418d60",
+      "code": "goToFoe();\r\n\r\nself.addTimer(40, 1, function() {\r\n    self.toState(STATE_OUTRO); \r\n});\r\n",
+      "length": 1,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "3f8d9c50-4d42-4928-88c9-5bb4822715c3",
+      "code": "self.setXVelocity(0);",
       "length": 1,
       "pluginMetadata": {
       },
@@ -1047,6 +1065,32 @@
       "hidden": false,
       "keyframes": [
         "e3a3ac98-1392-4faa-873e-d85eae8bfe89"
+      ],
+      "language": "hscript",
+      "locked": false,
+      "name": "Frame Script Layer",
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "9f0ded85-c408-4820-bbd7-005fe14e61be",
+      "hidden": false,
+      "keyframes": [
+        "8d588abf-16e4-4861-aa8c-e990b7418d60"
+      ],
+      "language": "hscript",
+      "locked": false,
+      "name": "Frame Script Layer",
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "cddc56c3-1176-4250-98ae-2dae25dc032b",
+      "hidden": false,
+      "keyframes": [
+        "3f8d9c50-4d42-4928-88c9-5bb4822715c3"
       ],
       "language": "hscript",
       "locked": false,

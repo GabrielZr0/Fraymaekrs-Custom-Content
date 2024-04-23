@@ -7,7 +7,7 @@ STATE_CHARGE = 2;
 STATE_DASH = 3;
 STATE_OUTRO = 4;
 
-var SPAWN_X_DISTANCE = 0; // How far in front of player to spawn
+var SPAWN_X_DISTANCE = 45; // How far in front of player to spawn
 var SPAWN_HEIGHT = 0; // How high up from player to spawn
 
 // Runs on object init
@@ -43,17 +43,15 @@ function update(){
 		}	
 		
 	} else if (self.inState(STATE_CHARGE)) {
-		if (self.finalFramePlayed()) {
-				self.toState(STATE_DASH); 
+			if (self.inState(STATE_CHARGE)) {
 		}
 	} else if (self.inState(STATE_DASH)) {
-		if (self.finalFramePlayed()) {
-			// Move to outro state and start fading away
-			self.toState(STATE_OUTRO); 
-			Common.startFadeOut();
+			if (self.inStatee(STATE_DASH)) {	
+				self.unattachFromFloor();
 		}
 	} else if (self.inState(STATE_OUTRO)) {
 		if (Common.fadeOutComplete() && self.finalFramePlayed()) {
+			Common.startFadeOut();
 			// Destroy
 			self.destroy();
 		}
@@ -62,6 +60,29 @@ function update(){
 function onTeardown(){
 }
 
-function loopCharge(){
+function getNearestFoe() {
+    var nearestFoe = null;
+    var nearestDistance = 9999; // This is in case I want to make have a limited range
+
+    // Loop through all the foes and find the nearest one
+    for (foe in self.getOwner().getFoes()) {
+        var distance = Math.sqrt(Math.pow(foe.getX() - self.getX(), 2) + Math.pow(foe.getY() - self.getY(), 2)); // Math.
+        if (distance < nearestDistance) {
+            nearestDistance = distance;
+            nearestFoe = foe;
+        }
+    }
+
+    return nearestFoe;
 }
 
+function goToFoe() {
+    var target = getNearestFoe();
+    if (target != null) {
+        var pos = Point.create(self.getX(), self.getY() + self.getEcbLeftHipY());
+        var tpos = Point.create(target.getX(), target.getY() + target.getEcbLeftHipY());
+        var ang = Math.getAngleBetween(pos, tpos);
+        var xVelocity = Math.calculateXVelocity(15, ang);
+        self.setXVelocity(xVelocity);
+    }
+}

@@ -2,7 +2,7 @@
 {
 	idle: {},
 	spindashstart: {},
-	spindashcharge: {},
-	spindash: {},
+	spindashcharge: {endType:AnimationEndType.LOOP},
+	spindash: {endType:AnimationEndType.LOOP,leaveGroundCancel:false},
 	outro: {}
 }
