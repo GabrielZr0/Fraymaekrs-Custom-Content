@@ -4,8 +4,10 @@
 	spindashstart: {},
 	spindashcharge: {},
 	spindash: {
-		hitbox0: { damage: 14, angle: 75, baseKnockback: 60, knockbackGrowth: 85, hitstop: 6, selfHitstop: 6, limb: AttackLimb.FOOT }
+		hitbox0: { damage: 8, angle: 56, baseKnockback: 75, knockbackGrowth: 0, hitstop: 6, selfHitstop: 6, limb: AttackLimb.FOOT }
 	},
 	outro: {},
-	jumpslash:{}
+	jumpslash:{
+		hitbox0: { damage: 12, angle: 270, baseKnockback: 60, knockbackGrowth: 65, hitstop: 6, selfHitstop: 6, limb: AttackLimb.FOOT }
+	}
 }

@@ -3,6 +3,7 @@
 	idle: {},
 	spindashstart: {},
 	spindashcharge: {endType:AnimationEndType.LOOP},
-	spindash: {endType:AnimationEndType.LOOP,leaveGroundCancel:false},
-	outro: {}
+	spindash: {endType:AnimationEndType.LOOP,leaveGroundCancel:false,slideOff: true},
+	outro: {},
+	jumpslash: {leaveGroundCancel:false,slideOff: true}
 }

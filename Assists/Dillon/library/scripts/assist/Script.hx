@@ -6,20 +6,24 @@ STATE_STARTUP = 1;
 STATE_CHARGE = 2;
 STATE_DASH = 3;
 STATE_OUTRO = 4;
+STATE_JSLASH = 5;
 
-var SPAWN_X_DISTANCE = 45; // How far in front of player to spawn
+var SPAWN_X_DISTANCE = 5; // How far in front of player to spawn
 var SPAWN_HEIGHT = 0; // How high up from player to spawn
 
 // Runs on object init
 function initialize(){
 	// Face the same direction as the user
-	if (self.getOwner().isFacingLeft()) {
+	if (self.getOwner().isFacingLeft() && self.inState(STATE_IDLE)) {
 		self.faceLeft();
 	}
 
 	if (self.getOwner().isOnFloor()==false)
-	{
-		self.toState(STATE_DASH);
+	{		
+		self.playAnimation("jumpslash");
+		self.setYVelocity(-11);
+		self.setXVelocity(14);
+		self.removeEventListener(GameObjectEvent.HIT_DEALT);		
 	}
 	
 	// Reposition relative to the user
@@ -27,8 +31,17 @@ function initialize(){
 
 	// Add fade in effect
 	Common.startFadeIn();
+	self.addEventListener(GameObjectEvent.HIT_DEALT, jiroHit, { persistent: true });
 }
 
+function jiroHit(event) {
+	self.toState(STATE_JSLASH); 
+	self.removeEventListener(GameObjectEvent.HIT_DEALT);
+	self.resetMomentum();
+	self.unattachFromFloor();
+	self.setYVelocity(-11);
+	self.setXVelocity(14);
+}
 
 function update(){
 	// Behavior for each state
@@ -46,12 +59,20 @@ function update(){
 			if (self.inState(STATE_CHARGE)) {
 		}
 	} else if (self.inState(STATE_DASH)) {
-			if (self.inStatee(STATE_DASH)) {	
-				self.unattachFromFloor();
+			if (self.inStatee(STATE_DASH)) {							
 		}
 	} else if (self.inState(STATE_OUTRO)) {
 		if (Common.fadeOutComplete() && self.finalFramePlayed()) {
-			Common.startFadeOut();
+			// Destroy
+			self.destroy();
+		}
+	} else if (self.inState(STATE_JSLASH)) {
+		if (self.finalFramePlayed()) {
+			// Destroy
+			self.destroy();
+		}
+	} else if (self.inState(STATE_JSLASH)) {
+		if (Common.fadeOutComplete() && self.finalFramePlayed()) {
 			// Destroy
 			self.destroy();
 		}
@@ -83,6 +104,8 @@ function goToFoe() {
         var tpos = Point.create(target.getX(), target.getY() + target.getEcbLeftHipY());
         var ang = Math.getAngleBetween(pos, tpos);
         var xVelocity = Math.calculateXVelocity(15, ang);
+        var yVelocity = Math.calculateYVelocity(-15, ang);
         self.setXVelocity(xVelocity);
+        self.setYVelocity(yVelocity);
     }
 }

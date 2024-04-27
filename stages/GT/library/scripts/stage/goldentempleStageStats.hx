@@ -9,14 +9,27 @@
 			id: "0",
 			maskSpriteContent: self.getResource().getContent("goldentemple"),
 			maskAnimationId: "shadowMaskFront",
-			color:0x99392213,
+			color:0x994c2525,
 			foreground: true
 		},
 		{
 			id: "1",
 			maskSpriteContent: self.getResource().getContent("goldentemple"),
 			maskAnimationId: "shadowMask",
-			color:0x99392213,
+			color:0x994c2525,
+			foreground: false
+		},{
+			id: "2",
+			maskSpriteContent: self.getResource().getContent("goldentemple"),
+			maskAnimationId: "shadowMaskFront1",
+			color:0x992f3544,
+			foreground: true
+		},
+		{
+			id: "3",
+			maskSpriteContent: self.getResource().getContent("goldentemple"),
+			maskAnimationId: "shadowMask1",
+			color:0x992f3544,
 			foreground: false
 		}
 	],
