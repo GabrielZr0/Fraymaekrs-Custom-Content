@@ -87,20 +87,20 @@
       }
     },
     {
-      "$id": "80acfb10-d7c4-4b84-9afd-16a79cbd5197",
-      "layers": [
-        "f84a4192-4cd0-45ee-9eb2-15797f4f8c2d"
-      ],
-      "name": "cloud_back",
-      "pluginMetadata": {
-      }
-    },
-    {
       "$id": "94c0788f-4528-49d3-b538-ee69f5b209c8",
       "layers": [
         "b8823f39-21cc-4fb3-b6bf-1c42d78f39fc"
       ],
-      "name": "cloud_back_2",
+      "name": "parallax2",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "80acfb10-d7c4-4b84-9afd-16a79cbd5197",
+      "layers": [
+        "f84a4192-4cd0-45ee-9eb2-15797f4f8c2d"
+      ],
+      "name": "parallax1",
       "pluginMetadata": {
       }
     }
@@ -242,7 +242,7 @@
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": null,
+      "symbol": "93bc442d-a453-4ed2-8ca4-2379bbe671b7",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
@@ -252,7 +252,7 @@
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": null,
+      "symbol": "7a2b6e45-7958-4e74-b07d-d9cd720aa7ff",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
@@ -1353,8 +1353,8 @@
       "scaleX": 1,
       "scaleY": 1,
       "type": "IMAGE",
-      "x": -900,
-      "y": -540
+      "x": -320,
+      "y": -180
     },
     {
       "$id": "d9f2e32b-889a-4db4-972e-32aa5dbb16fb",
@@ -1582,6 +1582,36 @@
       "type": "IMAGE",
       "x": -355,
       "y": -355
+    },
+    {
+      "$id": "93bc442d-a453-4ed2-8ca4-2379bbe671b7",
+      "alpha": 1,
+      "imageAsset": "172f4cb9-5f26-42e4-aaee-c8407f3b5559",
+      "pivotX": 320,
+      "pivotY": 180,
+      "pluginMetadata": {
+      },
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "type": "IMAGE",
+      "x": -320,
+      "y": -180
+    },
+    {
+      "$id": "7a2b6e45-7958-4e74-b07d-d9cd720aa7ff",
+      "alpha": 1,
+      "imageAsset": "b20d380b-9097-4482-873c-2f9f3d218711",
+      "pivotX": 320,
+      "pivotY": 180,
+      "pluginMetadata": {
+      },
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "type": "IMAGE",
+      "x": -320,
+      "y": -180
     }
   ],
   "tags": [

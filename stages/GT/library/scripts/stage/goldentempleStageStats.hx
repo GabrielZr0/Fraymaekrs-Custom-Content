@@ -3,7 +3,7 @@
 {
 	spriteContent: self.getResource().getContent("goldentemple"),
 	animationId: "stage",
-	ambientColor: 0x40f0a672,
+	ambientColor: 0x40ffe0c9,
 	shadowLayers: [
 		{
 			id: "0",
@@ -49,8 +49,8 @@
 				spriteContent: self.getResource().getContent("goldentemple"),
 				animationId: "parallax0",
 				mode: ParallaxMode.BOUNDS,
-				originalBGWidth: 768,
-				originalBGHeight: 432,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
 				horizontalScroll: false,
 				verticalScroll: false,
 				loopWidth: 0,
@@ -64,34 +64,30 @@
 			// Clouds
 			{
 				spriteContent: self.getResource().getContent("goldentemple"),
-				animationId: "cloud_back",
+				animationId: "parallax1",
 				mode: ParallaxMode.DEPTH,
-				originalBGWidth: 1542,
-				originalBGHeight: 93,
-				horizontalScroll: true,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
+				horizontalScroll: false,
 				verticalScroll: false,
-				loopWidth: 0,
-				loopHeight: 0,
-				xPanMultiplier: 0.135,
-				yPanMultiplier: 0.135,
-				scaleMultiplier: 1,
+				xPanMultiplier: 1.0,
+				yPanMultiplier: 1.0,
+				scaleMultiplier: 1.3,
 				foreground: false,
 				depth: 2500
 			},
 			// Clouds 2
 			{
 				spriteContent: self.getResource().getContent("goldentemple"),
-				animationId: "cloud_back_2",
+				animationId: "parallax2",
 				mode: ParallaxMode.DEPTH,
-				originalBGWidth: 1542,
-				originalBGHeight: 93,
-				horizontalScroll: true,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
+				horizontalScroll: false,
 				verticalScroll: false,
-				loopWidth: 0,
-				loopHeight: 0,
-				xPanMultiplier: 0.135,
-				yPanMultiplier: 0.135,
-				scaleMultiplier: 1,
+				xPanMultiplier: 1.0,
+				yPanMultiplier: 1.0,
+				scaleMultiplier: 1.3,
 				foreground: false,
 				depth: 1750
 			}

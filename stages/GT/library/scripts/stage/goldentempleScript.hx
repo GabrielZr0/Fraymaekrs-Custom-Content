@@ -20,8 +20,7 @@ function initialize(){
 
 }
 
-function update(){
-		scrollBackgrounds();
+function update(){		
 }
 
 function scrollBackgrounds() {

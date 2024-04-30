@@ -7,7 +7,7 @@
     "type": "stage",
     "objectStatsId": "goldentempleStageStats",
     "scriptId": "goldentempleScript",
-    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "music": [{ "namespace": "local", "resourceId": "junglefalls", "contentId": "bgm_junglefalls" },{ "namespace": "local", "resourceId": "brambleblast", "contentId": "bgm_brambleblast" }],
     "metadata": {
       "stage":{
         "hazardVariation": "local::goldentemple.goldentemplehazards"
@@ -31,7 +31,7 @@
     "type": "stage",
     "objectStatsId": "goldentempleStageStats",
     "scriptId": "goldentempleScript",
-    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+    "music": [{ "namespace": "local", "resourceId": "junglefalls", "contentId": "bgm_junglefalls" },{ "namespace": "local", "resourceId": "brambleblast", "contentId": "bgm_brambleblast" }]
   },
   {
     "id": "goldentempleMovingPlatform",

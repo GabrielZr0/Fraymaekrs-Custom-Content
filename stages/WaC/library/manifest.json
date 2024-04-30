@@ -1,0 +1,40 @@
+{
+  "resourceId": "windyandco",
+  "content": [{
+    "id": "windyandco",
+    "name": "Windy & Co.", 
+    "description": "Conker's Bad Fur Day's stage from Smash Remix",
+    "type": "stage",
+    "objectStatsId": "windyandcoStageStats",
+    "scriptId": "windyandcoScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::windyandco.windyandcohazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "windyandcohazards",
+    "name": "Windy & Co.", 
+    "description": "Conker's Bad Fur Day's stage from Smash Remix",
+    "type": "stage",
+    "objectStatsId": "windyandcoStageStats",
+    "scriptId": "windyandcoScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  },
+  {
+    "id": "windyandcoMovingPlatform",
+    "type": "structure"
+  }]
+}

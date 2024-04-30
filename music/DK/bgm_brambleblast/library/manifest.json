@@ -1,0 +1,12 @@
+{
+  "resourceId": "brambleblast",
+  "content": [{
+    "id": "bgm_brambleblast",
+    "title": "Bramble Blast",
+    "artist": "David Wise",
+    "description": "",
+    "type": "music",
+    "audioId": "bgm_brambleblast",
+    "loopPoint": 7190
+  }]
+}

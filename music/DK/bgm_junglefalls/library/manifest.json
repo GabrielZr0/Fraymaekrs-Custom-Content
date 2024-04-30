@@ -1,0 +1,12 @@
+{
+  "resourceId": "junglefalls",
+  "content": [{
+    "id": "bgm_junglefalls",
+    "title": "Jungle Falls",
+    "artist": "David Wise",
+    "description": "",
+    "type": "music",
+    "audioId": "bgm_junglefalls",
+    "loopPoint": 9340
+  }]
+}
