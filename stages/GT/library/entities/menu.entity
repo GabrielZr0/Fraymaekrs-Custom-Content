@@ -181,7 +181,7 @@
       "keyframes": [
         "c2ceeda0-ea0a-422c-87cb-6fa52a8e127d"
       ],
-      "locked": false,
+      "locked": true,
       "name": "Image Layer",
       "pluginMetadata": {
       },
@@ -193,7 +193,7 @@
       "keyframes": [
         "f51b8385-79e5-41af-b5d4-60be56546442"
       ],
-      "locked": false,
+      "locked": true,
       "name": "Image Layer",
       "pluginMetadata": {
       },
@@ -346,7 +346,7 @@
     {
       "$id": "bc339ff6-71a3-46be-8463-355783747599",
       "alpha": 1,
-      "imageAsset": "16947c23-bb30-4373-916b-33fb675f031e",
+      "imageAsset": "3e95eae7-b978-4540-a278-24da7281685c",
       "pivotX": 34,
       "pivotY": 15,
       "pluginMetadata": {

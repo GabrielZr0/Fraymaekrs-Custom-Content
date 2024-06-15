@@ -11,16 +11,29 @@ var cloudBack1XOffset = self.makeFloat(0);
 
 function initialize(){
 	// Don't animate the stage itself (we'll pause on one version for hazards on, and another version for hazards off)
-	self.playLabel("hazardsoff");
-
+	self.pause();	
+	
 	if (match.getMatchSettingsConfig().hazards) {
 		// Hazards are on, enable the platform beneath the stage
 		self.playLabel("hazardson");
 	}
 
+	if (self.getCurrentFrame() <= 1)  {
+		//Day
+		camera.getBackgroundContainers()[3].remove();
+		camera.getBackgroundContainers()[4].remove();
+		camera.getBackgroundContainers()[5].remove();
+	}else 	if (self.getCurrentFrame() <= 2)  {		
+		//Night
+		camera.getBackgroundContainers()[0].remove();
+		camera.getBackgroundContainers()[1].remove();
+		camera.getBackgroundContainers()[2].remove();
+	}
+	
+
 }
 
-function update(){		
+function update(){
 }
 
 function scrollBackgrounds() {

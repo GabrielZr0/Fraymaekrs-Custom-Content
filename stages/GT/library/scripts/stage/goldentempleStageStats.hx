@@ -91,6 +91,53 @@
 				foreground: false,
 				depth: 1750
 			}
+			// Sky
+			{
+				spriteContent: self.getResource().getContent("goldentemple"),
+				animationId: "parallax0 night",
+				mode: ParallaxMode.BOUNDS,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
+				horizontalScroll: false,
+				verticalScroll: false,
+				loopWidth: 0,
+				loopHeight: 0,
+				xPanMultiplier: 0.06,
+				yPanMultiplier: 0.06,
+				scaleMultiplier: 1,
+				foreground: false,
+				depth: 2001
+			},
+			// Clouds
+			{
+				spriteContent: self.getResource().getContent("goldentemple"),
+				animationId: "parallax1 night",
+				mode: ParallaxMode.DEPTH,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
+				horizontalScroll: false,
+				verticalScroll: false,
+				xPanMultiplier: 1.0,
+				yPanMultiplier: 1.0,
+				scaleMultiplier: 1.3,
+				foreground: false,
+				depth: 2500
+			},
+			// Clouds 2
+			{
+				spriteContent: self.getResource().getContent("goldentemple"),
+				animationId: "parallax2 night",
+				mode: ParallaxMode.DEPTH,
+				originalBGWidth: 640,
+				originalBGHeight: 360,
+				horizontalScroll: false,
+				verticalScroll: false,
+				xPanMultiplier: 1.0,
+				yPanMultiplier: 1.0,
+				scaleMultiplier: 1.3,
+				foreground: false,
+				depth: 1750
+			}
 		]
 	}
 }

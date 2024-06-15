@@ -24,7 +24,7 @@
         "aa6a498e-1225-49d5-90b8-9c3c1a4505c3",
         "e9414158-f498-45fd-a39f-4ce70be9bdd4",
         "364ef068-01a2-4f9b-9fe3-10f5c31be511",
-        "d872567c-a2f4-4624-b5cf-aa68398ef5e4",
+        "77a01f06-b8a6-4324-8ef1-e0d8d569d57a",
         "71fa9141-0617-4c8f-a9b4-f2bb4df97a96",
         "6f58ea2e-c583-4edd-9d21-c033ac2b530e",
         "88b19ce3-2f33-45a9-bff6-12a654254415",
@@ -327,16 +327,6 @@
       "type": "POINT"
     },
     {
-      "$id": "fdf507ce-b291-4f77-a8dd-5d5d0fec9618",
-      "length": 2,
-      "pluginMetadata": {
-      },
-      "symbol": "d9f2e32b-889a-4db4-972e-32aa5dbb16fb",
-      "tweenType": "LINEAR",
-      "tweened": false,
-      "type": "LINE_SEGMENT"
-    },
-    {
       "$id": "15656f4d-e9bb-4337-a98f-cef792ef3744",
       "length": 2,
       "pluginMetadata": {
@@ -381,7 +371,7 @@
       "length": 2,
       "pluginMetadata": {
       },
-      "symbol": "f5a63a5d-e1a4-418a-aca0-1295c2a02727",
+      "symbol": "3353138d-8a71-4886-9793-03baeb2e3609",
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
@@ -508,7 +498,7 @@
       "length": 1,
       "pluginMetadata": {
       },
-      "symbol": "b70d16d0-0467-4ff3-8a12-cb8a269749e8",
+      "symbol": null,
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
@@ -912,6 +902,16 @@
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
+    },
+    {
+      "$id": "4463b2bc-204e-4b83-a84e-87feb84b021e",
+      "length": 2,
+      "pluginMetadata": {
+      },
+      "symbol": "9048f4f1-d921-46a8-9804-15d115b9adb1",
+      "tweenType": "LINEAR",
+      "tweened": false,
+      "type": "LINE_SEGMENT"
     }
   ],
   "layers": [
@@ -1276,21 +1276,6 @@
       "type": "POINT"
     },
     {
-      "$id": "d872567c-a2f4-4624-b5cf-aa68398ef5e4",
-      "hidden": false,
-      "keyframes": [
-        "fdf507ce-b291-4f77-a8dd-5d5d0fec9618"
-      ],
-      "locked": true,
-      "name": "Celling",
-      "pluginMetadata": {
-        "com.fraymakers.FraymakersMetadata": {
-          "lineSegmentType": "LINE_SEGMENT_STRUCTURE"
-        }
-      },
-      "type": "LINE_SEGMENT"
-    },
-    {
       "$id": "fc1561f6-83a4-4646-9464-9efdc44e8dc6",
       "hidden": false,
       "keyframes": [
@@ -1338,7 +1323,7 @@
       "keyframes": [
         "ee986233-f8c3-4a65-9b42-998974f78da3"
       ],
-      "locked": true,
+      "locked": false,
       "name": "Floor",
       "pluginMetadata": {
         "com.fraymakers.FraymakersMetadata": {
@@ -1368,7 +1353,7 @@
       "keyframes": [
         "94db0bc7-1125-48c5-988f-c80a0ac920eb"
       ],
-      "locked": false,
+      "locked": true,
       "name": "Stage",
       "pluginMetadata": {
       },
@@ -1594,6 +1579,21 @@
       "pluginMetadata": {
       },
       "type": "IMAGE"
+    },
+    {
+      "$id": "77a01f06-b8a6-4324-8ef1-e0d8d569d57a",
+      "hidden": false,
+      "keyframes": [
+        "4463b2bc-204e-4b83-a84e-87feb84b021e"
+      ],
+      "locked": false,
+      "name": "Celling",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "lineSegmentType": "LINE_SEGMENT_STRUCTURE"
+        }
+      },
+      "type": "LINE_SEGMENT"
     }
   ],
   "paletteMap": {
@@ -1624,7 +1624,7 @@
       "scaleY": 900,
       "type": "COLLISION_BOX",
       "x": -740,
-      "y": -450
+      "y": -640
     },
     {
       "$id": "ec2a23cf-3031-43ed-97d1-89243d54601b",
@@ -1639,7 +1639,7 @@
       "scaleY": 1200,
       "type": "COLLISION_BOX",
       "x": -940,
-      "y": -600
+      "y": -790
     },
     {
       "$id": "9634efb5-1e64-4835-832f-f6af7f2954be",
@@ -1650,7 +1650,7 @@
       "rotation": 270,
       "type": "POINT",
       "x": 250,
-      "y": 30
+      "y": -40
     },
     {
       "$id": "e9ed2956-519d-429a-8c28-d7af88d3a96b",
@@ -1661,7 +1661,7 @@
       "rotation": 270,
       "type": "POINT",
       "x": 200,
-      "y": 30
+      "y": -40
     },
     {
       "$id": "d9df005f-b0ae-48c1-bc75-987d3225cfc3",
@@ -1672,7 +1672,7 @@
       "rotation": 90,
       "type": "POINT",
       "x": -201,
-      "y": -90
+      "y": -160
     },
     {
       "$id": "2c022892-92be-4df5-9ccd-2eec38cc6f36",
@@ -1683,7 +1683,7 @@
       "rotation": 90,
       "type": "POINT",
       "x": -250,
-      "y": -90
+      "y": -160
     },
     {
       "$id": "2d1eb9a9-eb35-4f75-a161-23b6a86c10d6",
@@ -1694,7 +1694,7 @@
       "rotation": 90,
       "type": "POINT",
       "x": -70,
-      "y": -90
+      "y": -160
     },
     {
       "$id": "5fbe4af5-fcde-4f3b-a97d-113d38414391",
@@ -1705,7 +1705,7 @@
       "rotation": 90,
       "type": "POINT",
       "x": -120,
-      "y": -90
+      "y": -160
     },
     {
       "$id": "51da60ad-ff07-476a-b7bd-c2d4636f7b16",
@@ -1716,7 +1716,7 @@
       "rotation": 270,
       "type": "POINT",
       "x": 70,
-      "y": 30
+      "y": -40
     },
     {
       "$id": "da374368-8c41-4c86-ad1e-25d7e1619d75",
@@ -1727,7 +1727,7 @@
       "rotation": 270,
       "type": "POINT",
       "x": 120,
-      "y": 30
+      "y": -40
     },
     {
       "$id": "9ddec25c-867c-4435-978e-bfc63fcb211b",
@@ -1745,26 +1745,6 @@
       "y": -263
     },
     {
-      "$id": "d9f2e32b-889a-4db4-972e-32aa5dbb16fb",
-      "alpha": 0.5,
-      "color": "0xeeeeee",
-      "pluginMetadata": {
-        "com.fraymakers.FraymakersMetadata": {
-          "dropThrough": false,
-          "leftLedge": true,
-          "rightLedge": false,
-          "structureType": "FLOOR"
-        }
-      },
-      "points": [
-        -258,
-        -45,
-        -50,
-        -45
-      ],
-      "type": "LINE_SEGMENT"
-    },
-    {
       "$id": "8fa8b789-4fb3-485e-b0c7-bd383318b209",
       "alpha": 0.5,
       "color": "0x66bb6a",
@@ -1774,9 +1754,9 @@
         }
       },
       "points": [
-        300,
-        82,
-        300,
+        350,
+        58,
+        350,
         600
       ],
       "type": "LINE_SEGMENT"
@@ -1791,10 +1771,10 @@
         }
       },
       "points": [
-        -50,
-        -45,
-        -50,
-        82
+        -62,
+        -102,
+        -62,
+        58
       ],
       "type": "LINE_SEGMENT"
     },
@@ -1810,10 +1790,10 @@
         }
       },
       "points": [
-        -50,
-        82,
-        300,
-        82
+        -62,
+        58,
+        350,
+        58
       ],
       "type": "LINE_SEGMENT"
     },
@@ -1830,10 +1810,10 @@
         }
       },
       "points": [
-        -40.714285714285715,
+        -40,
         -142,
-        25,
-        -137.71428571428572
+        172,
+        -142
       ],
       "type": "LINE_SEGMENT"
     },
@@ -1879,21 +1859,6 @@
       "y": -355
     },
     {
-      "$id": "f5a63a5d-e1a4-418a-aca0-1295c2a02727",
-      "alpha": 1,
-      "imageAsset": "31ea3ab9-482a-42ba-abb1-8fcdad57ce51",
-      "pivotX": 355,
-      "pivotY": 355,
-      "pluginMetadata": {
-      },
-      "rotation": 0,
-      "scaleX": 1,
-      "scaleY": 1,
-      "type": "IMAGE",
-      "x": -355,
-      "y": -355
-    },
-    {
       "$id": "6052dfa3-ed1e-4a4d-b44b-22e1eefffeec",
       "alpha": 0.5,
       "color": "0x0099ff",
@@ -1903,27 +1868,12 @@
         }
       },
       "points": [
-        -258,
-        -45,
-        -258,
+        -300,
+        -90,
+        -300,
         600
       ],
       "type": "LINE_SEGMENT"
-    },
-    {
-      "$id": "b70d16d0-0467-4ff3-8a12-cb8a269749e8",
-      "alpha": 1,
-      "imageAsset": "2a2bd778-f1da-4745-b143-711c440d668a",
-      "pivotX": 355,
-      "pivotY": 355,
-      "pluginMetadata": {
-      },
-      "rotation": 0,
-      "scaleX": 1,
-      "scaleY": 1,
-      "type": "IMAGE",
-      "x": -355,
-      "y": -355
     },
     {
       "$id": "f49c3b8c-44a6-4ba1-9975-32349cf0723d",
@@ -2524,6 +2474,41 @@
       "type": "IMAGE",
       "x": -355,
       "y": -355
+    },
+    {
+      "$id": "3353138d-8a71-4886-9793-03baeb2e3609",
+      "alpha": 1,
+      "imageAsset": "31ea3ab9-482a-42ba-abb1-8fcdad57ce51",
+      "pivotX": 500,
+      "pivotY": 500,
+      "pluginMetadata": {
+      },
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "type": "IMAGE",
+      "x": -500,
+      "y": -500
+    },
+    {
+      "$id": "9048f4f1-d921-46a8-9804-15d115b9adb1",
+      "alpha": 0.5,
+      "color": "0xeeeeee",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "dropThrough": false,
+          "leftLedge": true,
+          "rightLedge": false,
+          "structureType": "FLOOR"
+        }
+      },
+      "points": [
+        -300,
+        -90,
+        -62,
+        -102
+      ],
+      "type": "LINE_SEGMENT"
     }
   ],
   "tags": [

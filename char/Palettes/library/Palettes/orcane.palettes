@@ -1,231 +1,231 @@
 {
   "colors": [
     {
-      "$id": "2e1005b2-c1d3-4dc4-9021-6a07e0d7dd47",
+      "$id": "6cf496d1-21ea-4335-9f0f-0f018d1c4ca5",
       "color": "0xFF070707",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "bced0fb2-3987-4162-ad5c-9f118c62357e",
-      "color": "0xFFF6F6F6",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "80b1fdcc-7df9-451f-8058-6f019e8bcd08",
-      "color": "0xFFA4A4A4",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "e7951892-9c5b-455e-87db-ee40bc22ace0",
-      "color": "0xFF3A6E87",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "753c52d1-0082-4ba5-8161-16e6e7a4a56c",
-      "color": "0xFF1B4A61",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "113f03c0-8dd3-4764-b264-fcc55f08107f",
-      "color": "0xFF0C293B",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "e63ff802-138c-483e-a05b-650f2539a486",
-      "color": "0xFF687FD3",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "6980c627-c70f-4daf-a591-d545875ab287",
-      "color": "0xFF424E9D",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "bde48c0d-2db9-4a6c-b439-8232550cec3b",
+      "$id": "eedf2936-7fd4-4a02-84c1-25f6472a04a8",
       "color": "0xFF2D3173",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "8d2dbd9e-cade-47ea-bf0d-ed54529873bc",
+      "$id": "21634615-6293-4369-8ec7-7f8700ca4d6c",
+      "color": "0xFF424E9D",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "eed068be-7a73-4ceb-8ba5-311987bb3a34",
+      "color": "0xFF687FD3",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "21bbcbc3-6b67-4a26-a353-e971668d93a0",
       "color": "0xFF1C1D4A",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "e734af90-8a66-40fe-a6fe-05515ad518b1",
-      "color": "0xFFFFFFFF",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "9b067338-dba8-4186-b9fa-73477765851b",
-      "color": "0xFFDFFCFC",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "26d2a368-101b-467f-aba1-570c7f308a83",
+      "$id": "6d06963f-0c38-4757-b793-e05a778f20b6",
       "color": "0xFFB6E7F3",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "f7d0c764-5c4c-48e8-8a41-112be575ed77",
+      "$id": "ed08e47f-1413-40c4-bb12-29f120dbaebf",
+      "color": "0xFFDFFCFC",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "05b72cf4-88f6-4a96-9f53-55c5c308c965",
       "color": "0xFF7CADBF",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "8d69a167-0b40-4a14-be6f-9e943c739ca1",
+      "$id": "75ffa516-4478-43ec-b55d-9d7b370dc3f5",
       "color": "0xFF50768F",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "8549a660-afe7-418d-8b92-149bb6003af8",
-      "color": "0xFF8B3429",
+      "$id": "e3622ba2-ed0d-4a08-addc-40a4a4578f05",
+      "color": "0xFF0C293B",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "4ac5e9dd-d0a5-4580-99b2-c3a1fba2580c",
+      "$id": "242d700b-7bff-4e6c-9a78-738b10c22fa1",
+      "color": "0xFFF6F6F6",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "0d3394c2-7ff9-4543-9578-81f7282b6a1b",
+      "color": "0xFFA4A4A4",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "d6e28d3b-b0c0-40cc-a235-230bc08a7a05",
+      "color": "0xFF1B4A61",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "cea7ca07-24af-4e00-8c63-64b8b7003d19",
+      "color": "0xFF3A6E87",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "30feac94-2af1-4421-9a95-2c189e54e37a",
       "color": "0xFF631818",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "299fca6c-1f51-46f3-8d07-8471d1e407fb",
-      "color": "0xFFEFEFEF",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "55b67ff5-9814-461e-931a-290a882ef201",
-      "color": "0xFFB1B1B1",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "391adc41-ffc8-44e1-88fc-b4f9166a41fc",
-      "color": "0xFFE1C9FD",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "ec1b9540-e966-4b62-8e1f-3d7fddba963a",
-      "color": "0xFF9968D4",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "39e13bf1-8511-4bf6-93e4-6c293cb44e17",
-      "color": "0xFF7D42AC",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "08174dd1-230c-41ad-92c7-002e40b60a4c",
-      "color": "0xFF3D1757",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "c2756518-1167-4042-8cd5-6f84b14530a8",
-      "color": "0xFF1D002F",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "4bc2894c-f0b4-4a59-89fa-a704a7dec4ea",
-      "color": "0xFFFAFAFF",
-      "name": "Untitled Palette Color",
-      "pluginMetadata": {
-      }
-    },
-    {
-      "$id": "491907c9-f251-4269-8dd7-610024cdb52f",
+      "$id": "6b56c6f5-72a7-496d-8b25-610e80fd7882",
       "color": "0xFFD5DAF9",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "ad5ef3f1-c09b-4062-927b-45dc7a720584",
+      "$id": "2943a681-6c6a-48c5-8068-bf472a837ed1",
       "color": "0xFFB4BCF4",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "98824260-4330-4689-90e4-7b16f2e621fc",
+      "$id": "07f22cd1-c318-4308-9fd5-368246dcaffb",
+      "color": "0xFFFAFAFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "4745e7a5-db93-4a75-8ef5-416360754709",
       "color": "0xFF6470BF",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "5a25b353-a416-4742-b047-11ebf11f742c",
+      "$id": "f850dee6-198a-454f-8c1d-fc041f04b3d9",
       "color": "0xFF00157F",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "eff8c8cd-a7ba-4661-91c8-02a7bb2ef68d",
+      "$id": "03cc55b0-fcb0-47cf-9d8e-1cf1ee605af5",
+      "color": "0xFF9968D4",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "55a0ced1-e723-4cd5-9e88-0c8018526b77",
+      "color": "0xFF7D42AC",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "d7b20bcf-bda1-46ec-9592-7086c6c99c48",
+      "color": "0xFFE1C9FD",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "45a5fec4-9213-4a72-8abb-966e1b2e0af2",
+      "color": "0xFF3D1757",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "5312cf31-d3a0-4f47-832f-060e631ebf80",
+      "color": "0xFF1D002F",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "acb7d38a-123e-4675-a2bd-657dc10b4778",
+      "color": "0xFFB1B1B1",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "5a0d4d1b-00e7-4db2-920b-6bdb9d4d7862",
+      "color": "0xFFEFEFEF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "a304f32f-d9a4-40dc-bec9-3c3c07db655a",
+      "color": "0xFF8B3429",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "212738d5-52ef-400f-9aeb-dac5367c09a8",
+      "color": "0xFFFFFFFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "921f490c-9c4a-416b-97c6-1d591dae99bb",
       "color": "0xFFD5DCEE",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "7e848cc7-8ae4-42e1-85c7-674f702fec39",
+      "$id": "440fd689-57ec-4107-b474-4c65a58dd6a5",
       "color": "0xFFF1F4FC",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "fba54121-6865-42ec-8ebe-b381504e6318",
+      "$id": "40a8e78f-7b39-4c84-9ff9-66c5c537539f",
       "color": "0xFFB9C3DD",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
       }
     },
     {
-      "$id": "088cf981-c587-40a6-a295-6fa807498869",
+      "$id": "8f7c8021-bf51-4edd-9c74-1704484de827",
       "color": "0xFF7DADB9",
       "name": "Untitled Palette Color",
       "pluginMetadata": {
@@ -233,143 +233,143 @@
     }
   ],
   "export": true,
-  "guid": "81cf3f56-4755-483a-b663-f4a649400e62",
-  "id": "public::orcane.orcane",
-  "imageAsset": "eff75eda-f248-412f-bde4-41bde091f287",
+  "guid": "7ab1b78b-c2a1-4aa3-88a7-f5366a4a2cff",
+        "id": "public::orcane.orcane",
+        "imageAsset": "eff75eda-f248-412f-bde4-41bde091f287",   
   "maps": [
     {
-      "$id": "f102f225-4f03-49aa-b25e-0dc56b788884",
+      "$id": "e6df3960-1ec2-4d9f-bbe1-300e6be2cccf",
       "colors": [
         {
-          "paletteColorId": "2e1005b2-c1d3-4dc4-9021-6a07e0d7dd47",
+          "paletteColorId": "6cf496d1-21ea-4335-9f0f-0f018d1c4ca5",
           "targetColor": "0xFF070707"
         },
         {
-          "paletteColorId": "bced0fb2-3987-4162-ad5c-9f118c62357e",
-          "targetColor": "0xFFF6F6F6"
-        },
-        {
-          "paletteColorId": "80b1fdcc-7df9-451f-8058-6f019e8bcd08",
-          "targetColor": "0xFFA4A4A4"
-        },
-        {
-          "paletteColorId": "e7951892-9c5b-455e-87db-ee40bc22ace0",
-          "targetColor": "0xFF3A6E87"
-        },
-        {
-          "paletteColorId": "753c52d1-0082-4ba5-8161-16e6e7a4a56c",
-          "targetColor": "0xFF1B4A61"
-        },
-        {
-          "paletteColorId": "113f03c0-8dd3-4764-b264-fcc55f08107f",
-          "targetColor": "0xFF0C293B"
-        },
-        {
-          "paletteColorId": "e63ff802-138c-483e-a05b-650f2539a486",
-          "targetColor": "0xFF687FD3"
-        },
-        {
-          "paletteColorId": "6980c627-c70f-4daf-a591-d545875ab287",
-          "targetColor": "0xFF424E9D"
-        },
-        {
-          "paletteColorId": "bde48c0d-2db9-4a6c-b439-8232550cec3b",
+          "paletteColorId": "eedf2936-7fd4-4a02-84c1-25f6472a04a8",
           "targetColor": "0xFF2D3173"
         },
         {
-          "paletteColorId": "8d2dbd9e-cade-47ea-bf0d-ed54529873bc",
+          "paletteColorId": "21634615-6293-4369-8ec7-7f8700ca4d6c",
+          "targetColor": "0xFF424E9D"
+        },
+        {
+          "paletteColorId": "eed068be-7a73-4ceb-8ba5-311987bb3a34",
+          "targetColor": "0xFF687FD3"
+        },
+        {
+          "paletteColorId": "21bbcbc3-6b67-4a26-a353-e971668d93a0",
           "targetColor": "0xFF1C1D4A"
         },
         {
-          "paletteColorId": "e734af90-8a66-40fe-a6fe-05515ad518b1",
-          "targetColor": "0xFFFFFFFF"
-        },
-        {
-          "paletteColorId": "9b067338-dba8-4186-b9fa-73477765851b",
-          "targetColor": "0xFFDFFCFC"
-        },
-        {
-          "paletteColorId": "26d2a368-101b-467f-aba1-570c7f308a83",
+          "paletteColorId": "6d06963f-0c38-4757-b793-e05a778f20b6",
           "targetColor": "0xFFB6E7F3"
         },
         {
-          "paletteColorId": "f7d0c764-5c4c-48e8-8a41-112be575ed77",
+          "paletteColorId": "ed08e47f-1413-40c4-bb12-29f120dbaebf",
+          "targetColor": "0xFFDFFCFC"
+        },
+        {
+          "paletteColorId": "05b72cf4-88f6-4a96-9f53-55c5c308c965",
           "targetColor": "0xFF7CADBF"
         },
         {
-          "paletteColorId": "8d69a167-0b40-4a14-be6f-9e943c739ca1",
+          "paletteColorId": "75ffa516-4478-43ec-b55d-9d7b370dc3f5",
           "targetColor": "0xFF50768F"
         },
         {
-          "paletteColorId": "8549a660-afe7-418d-8b92-149bb6003af8",
-          "targetColor": "0xFF8B3429"
+          "paletteColorId": "e3622ba2-ed0d-4a08-addc-40a4a4578f05",
+          "targetColor": "0xFF0C293B"
         },
         {
-          "paletteColorId": "4ac5e9dd-d0a5-4580-99b2-c3a1fba2580c",
+          "paletteColorId": "242d700b-7bff-4e6c-9a78-738b10c22fa1",
+          "targetColor": "0xFFF6F6F6"
+        },
+        {
+          "paletteColorId": "0d3394c2-7ff9-4543-9578-81f7282b6a1b",
+          "targetColor": "0xFFA4A4A4"
+        },
+        {
+          "paletteColorId": "d6e28d3b-b0c0-40cc-a235-230bc08a7a05",
+          "targetColor": "0xFF1B4A61"
+        },
+        {
+          "paletteColorId": "cea7ca07-24af-4e00-8c63-64b8b7003d19",
+          "targetColor": "0xFF3A6E87"
+        },
+        {
+          "paletteColorId": "30feac94-2af1-4421-9a95-2c189e54e37a",
           "targetColor": "0xFF631818"
         },
         {
-          "paletteColorId": "299fca6c-1f51-46f3-8d07-8471d1e407fb",
-          "targetColor": "0xFFEFEFEF"
-        },
-        {
-          "paletteColorId": "55b67ff5-9814-461e-931a-290a882ef201",
-          "targetColor": "0xFFB1B1B1"
-        },
-        {
-          "paletteColorId": "391adc41-ffc8-44e1-88fc-b4f9166a41fc",
-          "targetColor": "0xFFE1C9FD"
-        },
-        {
-          "paletteColorId": "ec1b9540-e966-4b62-8e1f-3d7fddba963a",
-          "targetColor": "0xFF9968D4"
-        },
-        {
-          "paletteColorId": "39e13bf1-8511-4bf6-93e4-6c293cb44e17",
-          "targetColor": "0xFF7D42AC"
-        },
-        {
-          "paletteColorId": "08174dd1-230c-41ad-92c7-002e40b60a4c",
-          "targetColor": "0xFF3D1757"
-        },
-        {
-          "paletteColorId": "c2756518-1167-4042-8cd5-6f84b14530a8",
-          "targetColor": "0xFF1D002F"
-        },
-        {
-          "paletteColorId": "4bc2894c-f0b4-4a59-89fa-a704a7dec4ea",
-          "targetColor": "0xFFFAFAFF"
-        },
-        {
-          "paletteColorId": "491907c9-f251-4269-8dd7-610024cdb52f",
+          "paletteColorId": "6b56c6f5-72a7-496d-8b25-610e80fd7882",
           "targetColor": "0xFFD5DAF9"
         },
         {
-          "paletteColorId": "ad5ef3f1-c09b-4062-927b-45dc7a720584",
+          "paletteColorId": "2943a681-6c6a-48c5-8068-bf472a837ed1",
           "targetColor": "0xFFB4BCF4"
         },
         {
-          "paletteColorId": "98824260-4330-4689-90e4-7b16f2e621fc",
+          "paletteColorId": "07f22cd1-c318-4308-9fd5-368246dcaffb",
+          "targetColor": "0xFFFAFAFF"
+        },
+        {
+          "paletteColorId": "4745e7a5-db93-4a75-8ef5-416360754709",
           "targetColor": "0xFF6470BF"
         },
         {
-          "paletteColorId": "5a25b353-a416-4742-b047-11ebf11f742c",
+          "paletteColorId": "f850dee6-198a-454f-8c1d-fc041f04b3d9",
           "targetColor": "0xFF00157F"
         },
         {
-          "paletteColorId": "eff8c8cd-a7ba-4661-91c8-02a7bb2ef68d",
+          "paletteColorId": "03cc55b0-fcb0-47cf-9d8e-1cf1ee605af5",
+          "targetColor": "0xFF9968D4"
+        },
+        {
+          "paletteColorId": "55a0ced1-e723-4cd5-9e88-0c8018526b77",
+          "targetColor": "0xFF7D42AC"
+        },
+        {
+          "paletteColorId": "d7b20bcf-bda1-46ec-9592-7086c6c99c48",
+          "targetColor": "0xFFE1C9FD"
+        },
+        {
+          "paletteColorId": "45a5fec4-9213-4a72-8abb-966e1b2e0af2",
+          "targetColor": "0xFF3D1757"
+        },
+        {
+          "paletteColorId": "5312cf31-d3a0-4f47-832f-060e631ebf80",
+          "targetColor": "0xFF1D002F"
+        },
+        {
+          "paletteColorId": "acb7d38a-123e-4675-a2bd-657dc10b4778",
+          "targetColor": "0xFFB1B1B1"
+        },
+        {
+          "paletteColorId": "5a0d4d1b-00e7-4db2-920b-6bdb9d4d7862",
+          "targetColor": "0xFFEFEFEF"
+        },
+        {
+          "paletteColorId": "a304f32f-d9a4-40dc-bec9-3c3c07db655a",
+          "targetColor": "0xFF8B3429"
+        },
+        {
+          "paletteColorId": "212738d5-52ef-400f-9aeb-dac5367c09a8",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "921f490c-9c4a-416b-97c6-1d591dae99bb",
           "targetColor": "0xFFD5DCEE"
         },
         {
-          "paletteColorId": "7e848cc7-8ae4-42e1-85c7-674f702fec39",
+          "paletteColorId": "440fd689-57ec-4107-b474-4c65a58dd6a5",
           "targetColor": "0xFFF1F4FC"
         },
         {
-          "paletteColorId": "fba54121-6865-42ec-8ebe-b381504e6318",
+          "paletteColorId": "40a8e78f-7b39-4c84-9ff9-66c5c537539f",
           "targetColor": "0xFFB9C3DD"
         },
         {
-          "paletteColorId": "088cf981-c587-40a6-a295-6fa807498869",
+          "paletteColorId": "8f7c8021-bf51-4edd-9c74-1704484de827",
           "targetColor": "0xFF7DADB9"
         }
       ],
@@ -381,285 +381,142 @@
       }
     },
     {
-      "$id": "e3ddcc7d-a4bc-472b-b532-9dd56f0aecbc",
+      "$id": "d271e7e0-828d-4b8e-95f8-4af5cfa21a36",
       "colors": [
         {
-          "paletteColorId": "2e1005b2-c1d3-4dc4-9021-6a07e0d7dd47",
+          "paletteColorId": "6cf496d1-21ea-4335-9f0f-0f018d1c4ca5",
           "targetColor": "0xFF070707"
         },
         {
-          "paletteColorId": "bced0fb2-3987-4162-ad5c-9f118c62357e",
+          "paletteColorId": "eedf2936-7fd4-4a02-84c1-25f6472a04a8",
+          "targetColor": "0xFF961854"
+        },
+        {
+          "paletteColorId": "21634615-6293-4369-8ec7-7f8700ca4d6c",
+          "targetColor": "0xFFD32382"
+        },
+        {
+          "paletteColorId": "eed068be-7a73-4ceb-8ba5-311987bb3a34",
+          "targetColor": "0xFFE8469E"
+        },
+        {
+          "paletteColorId": "21bbcbc3-6b67-4a26-a353-e971668d93a0",
+          "targetColor": "0xFF6B1134"
+        },
+        {
+          "paletteColorId": "6d06963f-0c38-4757-b793-e05a778f20b6",
+          "targetColor": "0xFF1143B1"
+        },
+        {
+          "paletteColorId": "ed08e47f-1413-40c4-bb12-29f120dbaebf",
+          "targetColor": "0xFF2558C8"
+        },
+        {
+          "paletteColorId": "05b72cf4-88f6-4a96-9f53-55c5c308c965",
+          "targetColor": "0xFF0B3090"
+        },
+        {
+          "paletteColorId": "75ffa516-4478-43ec-b55d-9d7b370dc3f5",
+          "targetColor": "0xFF091B56"
+        },
+        {
+          "paletteColorId": "e3622ba2-ed0d-4a08-addc-40a4a4578f05",
+          "targetColor": "0xFF682E80"
+        },
+        {
+          "paletteColorId": "242d700b-7bff-4e6c-9a78-738b10c22fa1",
           "targetColor": "0xFFF6F6F6"
         },
         {
-          "paletteColorId": "80b1fdcc-7df9-451f-8058-6f019e8bcd08",
+          "paletteColorId": "0d3394c2-7ff9-4543-9578-81f7282b6a1b",
           "targetColor": "0xFFA4A4A4"
         },
         {
-          "paletteColorId": "e7951892-9c5b-455e-87db-ee40bc22ace0",
-          "targetColor": "0xFF3DE3A2"
+          "paletteColorId": "d6e28d3b-b0c0-40cc-a235-230bc08a7a05",
+          "targetColor": "0xFF9348A0"
         },
         {
-          "paletteColorId": "753c52d1-0082-4ba5-8161-16e6e7a4a56c",
-          "targetColor": "0xFF2EA7A6"
+          "paletteColorId": "cea7ca07-24af-4e00-8c63-64b8b7003d19",
+          "targetColor": "0xFFC069BE"
         },
         {
-          "paletteColorId": "113f03c0-8dd3-4764-b264-fcc55f08107f",
-          "targetColor": "0xFF1A4959"
+          "paletteColorId": "30feac94-2af1-4421-9a95-2c189e54e37a",
+          "targetColor": "0xFF682E80"
         },
         {
-          "paletteColorId": "e63ff802-138c-483e-a05b-650f2539a486",
-          "targetColor": "0xFFFBF798"
+          "paletteColorId": "6b56c6f5-72a7-496d-8b25-610e80fd7882",
+          "targetColor": "0xFFE84686"
         },
         {
-          "paletteColorId": "6980c627-c70f-4daf-a591-d545875ab287",
-          "targetColor": "0xFFE7D852"
+          "paletteColorId": "2943a681-6c6a-48c5-8068-bf472a837ed1",
+          "targetColor": "0xFFCB1D7B"
         },
         {
-          "paletteColorId": "bde48c0d-2db9-4a6c-b439-8232550cec3b",
-          "targetColor": "0xFFBBAA51"
+          "paletteColorId": "07f22cd1-c318-4308-9fd5-368246dcaffb",
+          "targetColor": "0xFFFF92BD"
         },
         {
-          "paletteColorId": "8d2dbd9e-cade-47ea-bf0d-ed54529873bc",
-          "targetColor": "0xFF8E7C44"
+          "paletteColorId": "4745e7a5-db93-4a75-8ef5-416360754709",
+          "targetColor": "0xFF961854"
         },
         {
-          "paletteColorId": "e734af90-8a66-40fe-a6fe-05515ad518b1",
-          "targetColor": "0xFFB2FF96"
+          "paletteColorId": "f850dee6-198a-454f-8c1d-fc041f04b3d9",
+          "targetColor": "0xFF6B1134"
         },
         {
-          "paletteColorId": "9b067338-dba8-4186-b9fa-73477765851b",
-          "targetColor": "0xFF7BBA64"
+          "paletteColorId": "03cc55b0-fcb0-47cf-9d8e-1cf1ee605af5",
+          "targetColor": "0xFF2558C8"
         },
         {
-          "paletteColorId": "26d2a368-101b-467f-aba1-570c7f308a83",
-          "targetColor": "0xFF478050"
+          "paletteColorId": "55a0ced1-e723-4cd5-9e88-0c8018526b77",
+          "targetColor": "0xFF1143B1"
         },
         {
-          "paletteColorId": "f7d0c764-5c4c-48e8-8a41-112be575ed77",
-          "targetColor": "0xFF26462B"
+          "paletteColorId": "d7b20bcf-bda1-46ec-9592-7086c6c99c48",
+          "targetColor": "0xFF64A2FF"
         },
         {
-          "paletteColorId": "8d69a167-0b40-4a14-be6f-9e943c739ca1",
-          "targetColor": "0xFF132415"
+          "paletteColorId": "45a5fec4-9213-4a72-8abb-966e1b2e0af2",
+          "targetColor": "0xFF0B3090"
         },
         {
-          "paletteColorId": "8549a660-afe7-418d-8b92-149bb6003af8",
-          "targetColor": "0xFF478050"
+          "paletteColorId": "5312cf31-d3a0-4f47-832f-060e631ebf80",
+          "targetColor": "0xFF091B56"
         },
         {
-          "paletteColorId": "4ac5e9dd-d0a5-4580-99b2-c3a1fba2580c",
-          "targetColor": "0xFF26462B"
+          "paletteColorId": "acb7d38a-123e-4675-a2bd-657dc10b4778",
+          "targetColor": "0xFFB1B1B1"
         },
         {
-          "paletteColorId": "299fca6c-1f51-46f3-8d07-8471d1e407fb",
-          "targetColor": "0xFFE8DE26"
+          "paletteColorId": "5a0d4d1b-00e7-4db2-920b-6bdb9d4d7862",
+          "targetColor": "0xFFEFEFEF"
         },
         {
-          "paletteColorId": "55b67ff5-9814-461e-931a-290a882ef201",
-          "targetColor": "0xFFAB8436"
+          "paletteColorId": "a304f32f-d9a4-40dc-bec9-3c3c07db655a",
+          "targetColor": "0xFF9348A0"
         },
         {
-          "paletteColorId": "391adc41-ffc8-44e1-88fc-b4f9166a41fc",
-          "targetColor": "0xFFFBF798"
+          "paletteColorId": "212738d5-52ef-400f-9aeb-dac5367c09a8",
+          "targetColor": "0xFF64A2FF"
         },
         {
-          "paletteColorId": "ec1b9540-e966-4b62-8e1f-3d7fddba963a",
-          "targetColor": "0xFFE7D852"
-        },
-        {
-          "paletteColorId": "39e13bf1-8511-4bf6-93e4-6c293cb44e17",
-          "targetColor": "0xFFBBAA51"
-        },
-        {
-          "paletteColorId": "08174dd1-230c-41ad-92c7-002e40b60a4c",
-          "targetColor": "0xFF8E7C44"
-        },
-        {
-          "paletteColorId": "c2756518-1167-4042-8cd5-6f84b14530a8",
-          "targetColor": "0xFF635136"
-        },
-        {
-          "paletteColorId": "4bc2894c-f0b4-4a59-89fa-a704a7dec4ea",
-          "targetColor": "0xFF7BBA64"
-        },
-        {
-          "paletteColorId": "491907c9-f251-4269-8dd7-610024cdb52f",
-          "targetColor": "0xFF478050"
-        },
-        {
-          "paletteColorId": "ad5ef3f1-c09b-4062-927b-45dc7a720584",
-          "targetColor": "0xFF26462B"
-        },
-        {
-          "paletteColorId": "98824260-4330-4689-90e4-7b16f2e621fc",
-          "targetColor": "0xFF132415"
-        },
-        {
-          "paletteColorId": "5a25b353-a416-4742-b047-11ebf11f742c",
-          "targetColor": "0xFF22322E"
-        },
-        {
-          "paletteColorId": "eff8c8cd-a7ba-4661-91c8-02a7bb2ef68d",
+          "paletteColorId": "921f490c-9c4a-416b-97c6-1d591dae99bb",
           "targetColor": "0xFFD5DCEE"
         },
         {
-          "paletteColorId": "7e848cc7-8ae4-42e1-85c7-674f702fec39",
+          "paletteColorId": "440fd689-57ec-4107-b474-4c65a58dd6a5",
           "targetColor": "0xFFF1F4FC"
         },
         {
-          "paletteColorId": "fba54121-6865-42ec-8ebe-b381504e6318",
+          "paletteColorId": "40a8e78f-7b39-4c84-9ff9-66c5c537539f",
           "targetColor": "0xFFB9C3DD"
         },
         {
-          "paletteColorId": "088cf981-c587-40a6-a295-6fa807498869",
+          "paletteColorId": "8f7c8021-bf51-4edd-9c74-1704484de827",
           "targetColor": "0xFF7DADB9"
         }
       ],
-      "name": "orcane forest gold",
-      "pluginMetadata": {
-        "com.fraymakers.FraymakersMetadata": {
-          "isBase": false
-        }
-      }
-    },
-    {
-      "$id": "bff40f72-0089-433e-b0bf-ef3964f7f851",
-      "colors": [
-        {
-          "paletteColorId": "2e1005b2-c1d3-4dc4-9021-6a07e0d7dd47",
-          "targetColor": "0xFF070707"
-        },
-        {
-          "paletteColorId": "bced0fb2-3987-4162-ad5c-9f118c62357e",
-          "targetColor": "0xFFF6F6F6"
-        },
-        {
-          "paletteColorId": "80b1fdcc-7df9-451f-8058-6f019e8bcd08",
-          "targetColor": "0xFFA4A4A4"
-        },
-        {
-          "paletteColorId": "e7951892-9c5b-455e-87db-ee40bc22ace0",
-          "targetColor": "0xFFEF9DA2"
-        },
-        {
-          "paletteColorId": "753c52d1-0082-4ba5-8161-16e6e7a4a56c",
-          "targetColor": "0xFFB96369"
-        },
-        {
-          "paletteColorId": "113f03c0-8dd3-4764-b264-fcc55f08107f",
-          "targetColor": "0xFF693136"
-        },
-        {
-          "paletteColorId": "e63ff802-138c-483e-a05b-650f2539a486",
-          "targetColor": "0xFFFFE2CC"
-        },
-        {
-          "paletteColorId": "6980c627-c70f-4daf-a591-d545875ab287",
-          "targetColor": "0xFFE4C9B5"
-        },
-        {
-          "paletteColorId": "bde48c0d-2db9-4a6c-b439-8232550cec3b",
-          "targetColor": "0xFFB19582"
-        },
-        {
-          "paletteColorId": "8d2dbd9e-cade-47ea-bf0d-ed54529873bc",
-          "targetColor": "0xFF685146"
-        },
-        {
-          "paletteColorId": "e734af90-8a66-40fe-a6fe-05515ad518b1",
-          "targetColor": "0xFFCEB8C6"
-        },
-        {
-          "paletteColorId": "9b067338-dba8-4186-b9fa-73477765851b",
-          "targetColor": "0xFF867580"
-        },
-        {
-          "paletteColorId": "26d2a368-101b-467f-aba1-570c7f308a83",
-          "targetColor": "0xFF5A4A54"
-        },
-        {
-          "paletteColorId": "f7d0c764-5c4c-48e8-8a41-112be575ed77",
-          "targetColor": "0xFF3F333B"
-        },
-        {
-          "paletteColorId": "8d69a167-0b40-4a14-be6f-9e943c739ca1",
-          "targetColor": "0xFF1E171B"
-        },
-        {
-          "paletteColorId": "8549a660-afe7-418d-8b92-149bb6003af8",
-          "targetColor": "0xFFB96369"
-        },
-        {
-          "paletteColorId": "4ac5e9dd-d0a5-4580-99b2-c3a1fba2580c",
-          "targetColor": "0xFF693136"
-        },
-        {
-          "paletteColorId": "299fca6c-1f51-46f3-8d07-8471d1e407fb",
-          "targetColor": "0xFF3F333B"
-        },
-        {
-          "paletteColorId": "55b67ff5-9814-461e-931a-290a882ef201",
-          "targetColor": "0xFF1E171B"
-        },
-        {
-          "paletteColorId": "391adc41-ffc8-44e1-88fc-b4f9166a41fc",
-          "targetColor": "0xFFFFC4C7"
-        },
-        {
-          "paletteColorId": "ec1b9540-e966-4b62-8e1f-3d7fddba963a",
-          "targetColor": "0xFFEF9DA2"
-        },
-        {
-          "paletteColorId": "39e13bf1-8511-4bf6-93e4-6c293cb44e17",
-          "targetColor": "0xFFB96369"
-        },
-        {
-          "paletteColorId": "08174dd1-230c-41ad-92c7-002e40b60a4c",
-          "targetColor": "0xFF693136"
-        },
-        {
-          "paletteColorId": "c2756518-1167-4042-8cd5-6f84b14530a8",
-          "targetColor": "0xFF754360"
-        },
-        {
-          "paletteColorId": "4bc2894c-f0b4-4a59-89fa-a704a7dec4ea",
-          "targetColor": "0xFF867580"
-        },
-        {
-          "paletteColorId": "491907c9-f251-4269-8dd7-610024cdb52f",
-          "targetColor": "0xFF5A4A54"
-        },
-        {
-          "paletteColorId": "ad5ef3f1-c09b-4062-927b-45dc7a720584",
-          "targetColor": "0xFF3F333B"
-        },
-        {
-          "paletteColorId": "98824260-4330-4689-90e4-7b16f2e621fc",
-          "targetColor": "0xFF1E171B"
-        },
-        {
-          "paletteColorId": "5a25b353-a416-4742-b047-11ebf11f742c",
-          "targetColor": "0xFF30222E"
-        },
-        {
-          "paletteColorId": "eff8c8cd-a7ba-4661-91c8-02a7bb2ef68d",
-          "targetColor": "0xFFD5DCEE"
-        },
-        {
-          "paletteColorId": "7e848cc7-8ae4-42e1-85c7-674f702fec39",
-          "targetColor": "0xFFF1F4FC"
-        },
-        {
-          "paletteColorId": "fba54121-6865-42ec-8ebe-b381504e6318",
-          "targetColor": "0xFFB9C3DD"
-        },
-        {
-          "paletteColorId": "088cf981-c587-40a6-a295-6fa807498869",
-          "targetColor": "0xFF7DADB9"
-        }
-      ],
-      "name": "orcane beast white",
+      "name": "orcane pride",
       "pluginMetadata": {
         "com.fraymakers.FraymakersMetadata": {
           "isBase": false
